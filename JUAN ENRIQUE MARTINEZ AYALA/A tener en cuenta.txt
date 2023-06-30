@@ -1,0 +1,2 @@
+Cambiar parametros de instancia BD y conexion de App.Config
+En caso de la dll no la tome, volver a referenciarla
